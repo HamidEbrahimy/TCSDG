@@ -1,0 +1,18 @@
+# ---------------------------------------------------------------------------
+# TCSDG — Python dependencies
+# ---------------------------------------------------------------------------
+# Install with:   pip install -r requirements.txt
+# ---------------------------------------------------------------------------
+
+# --- Core ------------------------------------------------------------------
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+
+# --- Synthetic data generation framework (required) ------------------------
+synthcity>=0.2.10      # Bayesian-network generator + the 7 baseline plugins
+tabicl>=0.1.1          # TabICL tabular foundation model used as the "teacher"
+opacus<=1.5.2
+
+# --- For running the demo notebook -----------------------------------------
+jupyter>=1.0
