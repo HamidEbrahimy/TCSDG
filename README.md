@@ -153,13 +153,17 @@ Regression metrics: RMSE.
 ## Citation
 If you use this code, please cite the associated paper:
 
-@article{Ebrahimy2026task,
-  title={Task-Conditioned Synthetic Data Generation for Improving Machine Learning Performance in Agricultural Prediction Tasks},
-  author={Ebrahimy, Hamid and Lucas, Moritz and Atzmueller, Martin},
-  journal={arXiv preprint arXiv:2607.09751},
-  year={2026},
-  doi={10.48550/arXiv.2607.09751}
+```bibtex
+@misc{ebrahimy2026taskconditionedsyntheticdatageneration,
+      title={Task-Conditioned Synthetic Data Generation for Improving Machine Learning Performance in Agricultural Prediction Tasks}, 
+      author={Hamid Ebrahimy and Moritz Lucas and Martin Atzmueller},
+      year={2026},
+      eprint={2607.09751},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2607.09751},
 }
+```
 
 ---
 
