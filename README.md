@@ -159,7 +159,7 @@ If you use this code, please cite the associated paper:
   journal={arXiv preprint arXiv:2607.09751},
   year={2026},
   doi={10.48550/arXiv.2607.09751}
-}
+  }
 
 ---
 
